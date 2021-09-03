@@ -4,4 +4,4 @@
 
 Based on ACI design of reinforced concrete beams
 
-![screengrab.png](screengrab.png)
+![screengrab.png](https://raw.githubusercontent.com/QuantumNovice/ACI-One-Way-Beam_Design/main/screengrab.PNG)
