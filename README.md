@@ -4,4 +4,4 @@
 
 Based on ACI design of reinforced concrete beams
 
-![](screengrab.png)
+![screengrab.png](screengrab.png)
